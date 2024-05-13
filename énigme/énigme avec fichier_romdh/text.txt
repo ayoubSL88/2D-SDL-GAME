@@ -1,0 +1,5 @@
+Assets/graphic/exit-no1.png Assets/graphic/exit-yes1.png 2 Assets/graphic/quest_1.jpg Assets/graphic/win.jpg Assets/graphic/lose.jpg 
+Assets/graphic/exit-no1.png Assets/graphic/exit-yes1.png 1 Assets/graphic/quest_2.jpg Assets/graphic/win.jpg Assets/graphic/lose.jpg 
+
+
+
